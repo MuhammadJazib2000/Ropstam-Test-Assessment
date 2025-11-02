@@ -1,4 +1,5 @@
 # Ropstam-Test-Assessment
+there are two theme files, one store is showing price getting from the metafield Pricing Table and one from the Variants price from beckend
 ## Installation
 
 1. **Add metafield to product:**
